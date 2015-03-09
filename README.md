@@ -13,4 +13,4 @@ It can be used as part of scripts to send notifications of events:
 
 Result:
 
-![](https://dendory.net/files/Pushbullet_module.jpg)
+![](sample.jpg)
